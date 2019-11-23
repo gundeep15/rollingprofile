@@ -13,6 +13,6 @@ The algorithms developed as part of this work are capable of:
 
 The resulting rolling profile analysis looks like:
 
-<img src="vel_track_combined.jpg" width="48">
+<img src="vel_track_combined.jpg" width="480">
 
 
