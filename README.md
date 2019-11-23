@@ -11,7 +11,7 @@ The algorithms developed as part of this work are capable of:
 2. Tracking the position of centroids of each of the cells while accounting for cells that leave the frame during the video.
 3. Analyzing the positions array of each of the cells to get motion measures like average velocity, fraction time of tumbling motion, and survival probability of individual cells  
 
-The resulting rolling profile analysis looks like:
+The resulting rolling profile is shown below. The white specks are the trajectories of the cells. The cells which get detached by the last  frame are shown using the red asterick symbol overlaying their final positions:
 
 <img src="vel_track_combined.jpg" width="480">
 
