@@ -15,4 +15,5 @@ The resulting rolling profile is shown below. The white specks are the trajector
 
 <img src="vel_track_combined.jpg" width="480">
 
+The Matlab application is developed that can be used to analyze motion of SCD michrochannel or other cellular-level experiments without requiring much user-input. (SCD_motion_analyzer.mlapp)
 
