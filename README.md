@@ -13,4 +13,5 @@ The algorithms developed as part of this work are capable of:
 
 The resulting rolling profile analysis looks like:
 ![](vel_track_combined.tif)
+The white 
 
