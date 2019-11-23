@@ -6,6 +6,11 @@ The setup includes a microvasculature bed of Laminin (Ln) protein and sickle cel
 
 ![](cropped_rolling_example.gif)
 
+The algorithms developed as part of this work are capable of:
+1. Identifying only the adhered cells using gradient thresholding. 
+2. Tracking the position of centroids of each of the cells while accounting for cells that leave the frame during the video.
+3. Analyzing the positions array of each of the cells to get motion measures like average velocity, fraction time of tumbling motion, and survival probability of individual cells  
 
+The resulting rolling profile analysis looks like:
+![](vel_track_combined.tif)
 
-To get different parameters out of a video of RBCs (sickled + healthy) rolling, like number, velocity, type of motion,...
