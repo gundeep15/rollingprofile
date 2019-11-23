@@ -12,5 +12,7 @@ The algorithms developed as part of this work are capable of:
 3. Analyzing the positions array of each of the cells to get motion measures like average velocity, fraction time of tumbling motion, and survival probability of individual cells  
 
 The resulting rolling profile analysis looks like:
-![](vel_track_combined.jpg){:height="36px" width="36px"}.
+
+<img src="vel_track_combined.jpg" width="48">
+
 
